@@ -73,15 +73,15 @@ Once you have your static site up and running on your local device, consider hos
 	In order to view your website on a browser, type this to add the URL to the alias "origin".
 7. *git push origin gh-pages*
 	This command will sync local commits with the repository branch to ensure your documents are up to date.
+	> Other git commands can be found [here](https://education.github.com/git-cheat-sheet-education.pdf).
 
-
- Other git commands can be found [here](https://education.github.com/git-cheat-sheet-education.pdf).
-
+You can now go to your _repository \> Settings \> pages_ to get the link to your Github page.
 	
+ 	
 >Having your documentation available on a DVC makes it easily accessible to developers. In the case of your resume, it will be right by your projects that could be relevant to demonstrate some of the skills you may have mentioned. 
 	
 Your final results may look something like this: 
-![Screen_record_of_site](Recording 2022-03-22 at 23.17.34.gif) 
+![Screen_record_of_site](resume.gif) 
 
 
 ### More resources:
