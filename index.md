@@ -1,24 +1,15 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: "home"
-Title: Resume
-permalink: /homepage
----
-
 # MERCY MBINGU
-(204)-962-1557| Email: msmbingu@gmail.ca | Linkedin.com/profile/MercyMbingu
+(204)-962-1557 | Email: msmbingu@gmail.com | Linkedin.com/profile/MercyMbingu
 
 Independent, self-driven Computer Science student with knowledge of data base design and data analysis. Proven ability to communicate strongly in a team that focuses on the impact of projects.
 
 ## EDUCATION
 Bachelor of Science January 2017 – Present
-**Major:** Computer Science - University of Manitoba
-**Relevant courses:** 
-* Database Concepts, Usage and Implementation
-* Professional Practices in Computer Science  
-* Technical Communication in Computer Science
+* **Major:** Computer Science - University of Manitoba
+* **Relevant courses:**
+  * Database Concepts, Usage and Implementation
+  * Professional Practices in Computer Science  
+  * Technical Communication in Computer Science
 
 **Programming Languages:** Java, C++, Assembly, SQL
 **Operating Systems:** UNIX, Linux, Windows
