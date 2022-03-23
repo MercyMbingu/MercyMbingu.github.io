@@ -1,9 +1,3 @@
----
-layout: "page"
-title: Tutorial
-permalink: /readme
----
-
 # STATIC WEBSITE FORMATTING AND HOSTING 
 
 ---
@@ -80,8 +74,9 @@ You can now go to your _repository \> Settings \> pages_ to get the link to your
  	
 >Having your documentation available on a DVC makes it easily accessible to developers. In the case of your resume, it will be right by your projects that could be relevant to demonstrate some of the skills you may have mentioned. 
 	
-Your final results may look something like this: 
-![Screen_record_of_site](resume.gif) 
+Your final results should look something like this: 
+
+	![Screen_record_of_site](resume.gif) 
 
 
 ### More resources:
