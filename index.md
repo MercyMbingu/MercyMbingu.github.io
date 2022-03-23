@@ -1,6 +1,8 @@
 # MERCY MBINGU
 (204)-962-1557 | Email: msmbingu@gmail.com | Linkedin.com/profile/MercyMbingu
 
+---
+
 Independent, self-driven Computer Science student with knowledge of data base design and data analysis. Proven ability to communicate strongly in a team that focuses on the impact of projects.
 
 ## EDUCATION
@@ -12,6 +14,7 @@ Bachelor of Science January 2017 – Present
   * Technical Communication in Computer Science
 
 **Programming Languages:** Java, C++, Assembly, SQL
+
 **Operating Systems:** UNIX, Linux, Windows
 
 ## RELEVANT SKILLS
