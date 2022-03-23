@@ -76,7 +76,7 @@ You can now go to your _repository \> Settings \> pages_ to get the link to your
 	
 Your final results should look something like this: 
 
-	![Screen_record_of_site](resume.gif) 
+![Screen_record_of_site](resume.gif) 
 
 
 ### More resources:
